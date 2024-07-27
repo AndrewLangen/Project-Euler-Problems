@@ -18,6 +18,7 @@
 #include <numeric>
 #include <ranges>
 #include <vector>
+#include <set>
 #include <stack>
 
 int DivisorSum(int);
@@ -33,20 +34,19 @@ int main()
     //An earlier version of this program checked each number between 1 and 28123 to see if it was an abundant number
     // precomputing all possible sums first turned out to be about 4 times faster in practice (1 min vs 4)
     //this can be further optimized with parallel computing, but I don't think that is necessary right now
-    std::vector<int> abundantSums;
+    //set used, unlike vectors, because sets disallow duplicates, saving doing a check, which roughly halves calculation time (~30 seconds now)
+    std::set<int> abundantSums;
     for (int i = 0; i < abundantNumbers.size(); i++)
     {
         for (int j = i; j < abundantNumbers.size(); j++)
         {
-            int potentialNumber = abundantNumbers[i] + abundantNumbers[j];
-            if ((potentialNumber <= 28123) && (std::find(abundantSums.begin(), abundantSums.end(), potentialNumber) == abundantSums.end()))
-                abundantSums.push_back(potentialNumber);
+            abundantSums.insert(abundantNumbers[i] + abundantNumbers[j]);
         }
     }
 
     for (int i = 1; i <= 28123; i++)
     {
-        if (std::find(abundantSums.begin(), abundantSums.end(), i) == abundantSums.end())
+        if (!abundantSums.contains(i))
             sum += i;
     }
 
