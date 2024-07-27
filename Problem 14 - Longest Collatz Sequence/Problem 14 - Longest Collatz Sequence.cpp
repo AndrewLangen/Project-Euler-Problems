@@ -52,7 +52,7 @@ static const int CollatzCycleCount(int initialValue)
     // note: this can also be done recursively; the problem is that it would require passing along a counter as part of the parameters
     // It is likely the compiler would just optimize that out (it would all be tail call recursive anyway), but it may have a performance penalty
 
-    //we use long here because int caused overflow issues
+    //long here because int caused overflow issues
     //it is fine for the function signature to use int because all values are capped at 1 million
     long long currentvalue = initialValue;
     int cyclecount = 0;

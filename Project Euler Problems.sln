@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 22 - Names Scores", "Problem 22 - Names Scores\Problem 22 - Names Scores.vcxproj", "{18CC05B5-1170-464E-867B-99E3E62F722C}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 1 - Multiples of 3 or 5", "Problem 1 - Multiples of 3 or 5\Problem 1 - Multiples of 3 or 5.vcxproj", "{11046930-4D7A-4192-9774-D732BFCFF535}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 2 - Even Fibonacci Numbers (UNFINISHED)", "Problem 2 - Even Fibonacci Numbers\Problem 2 - Even Fibonacci Numbers.vcxproj", "{CA85D05E-EF0B-455F-9431-F8461A7DAA7A}"
@@ -45,6 +43,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Problem 20 - Factorial Digi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 21 - Amicable Numbers", "Problem 21 - Amicable Numbers\Problem 21 - Amicable Numbers.vcxproj", "{2B754F99-FBD1-461C-852F-E2064D443DF1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 23 - Non-Abundant Sums", "Problem 23 - Non-Abundant Sums\Problem 23 - Non-Abundant Sums.vcxproj", "{C6D6708A-9285-415C-B2EF-A49947BAD55B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Problem 25 - 1000-digit Fibonacci Number", "Problem 25 - 1000-digit Fibonacci Number\Problem 25 - 1000-digit Fibonacci Number.pyproj", "{044A01DA-0B4B-4B7F-8917-B58E2D8B2850}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,18 +57,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{18CC05B5-1170-464E-867B-99E3E62F722C}.Debug|Any CPU.ActiveCfg = Debug|x64
-		{18CC05B5-1170-464E-867B-99E3E62F722C}.Debug|Any CPU.Build.0 = Debug|x64
-		{18CC05B5-1170-464E-867B-99E3E62F722C}.Debug|x64.ActiveCfg = Debug|x64
-		{18CC05B5-1170-464E-867B-99E3E62F722C}.Debug|x64.Build.0 = Debug|x64
-		{18CC05B5-1170-464E-867B-99E3E62F722C}.Debug|x86.ActiveCfg = Debug|Win32
-		{18CC05B5-1170-464E-867B-99E3E62F722C}.Debug|x86.Build.0 = Debug|Win32
-		{18CC05B5-1170-464E-867B-99E3E62F722C}.Release|Any CPU.ActiveCfg = Release|x64
-		{18CC05B5-1170-464E-867B-99E3E62F722C}.Release|Any CPU.Build.0 = Release|x64
-		{18CC05B5-1170-464E-867B-99E3E62F722C}.Release|x64.ActiveCfg = Release|x64
-		{18CC05B5-1170-464E-867B-99E3E62F722C}.Release|x64.Build.0 = Release|x64
-		{18CC05B5-1170-464E-867B-99E3E62F722C}.Release|x86.ActiveCfg = Release|Win32
-		{18CC05B5-1170-464E-867B-99E3E62F722C}.Release|x86.Build.0 = Release|Win32
 		{11046930-4D7A-4192-9774-D732BFCFF535}.Debug|Any CPU.ActiveCfg = Debug|x64
 		{11046930-4D7A-4192-9774-D732BFCFF535}.Debug|Any CPU.Build.0 = Debug|x64
 		{11046930-4D7A-4192-9774-D732BFCFF535}.Debug|x64.ActiveCfg = Debug|x64
@@ -289,6 +279,24 @@ Global
 		{2B754F99-FBD1-461C-852F-E2064D443DF1}.Release|x64.Build.0 = Release|x64
 		{2B754F99-FBD1-461C-852F-E2064D443DF1}.Release|x86.ActiveCfg = Release|Win32
 		{2B754F99-FBD1-461C-852F-E2064D443DF1}.Release|x86.Build.0 = Release|Win32
+		{C6D6708A-9285-415C-B2EF-A49947BAD55B}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{C6D6708A-9285-415C-B2EF-A49947BAD55B}.Debug|Any CPU.Build.0 = Debug|x64
+		{C6D6708A-9285-415C-B2EF-A49947BAD55B}.Debug|x64.ActiveCfg = Debug|x64
+		{C6D6708A-9285-415C-B2EF-A49947BAD55B}.Debug|x64.Build.0 = Debug|x64
+		{C6D6708A-9285-415C-B2EF-A49947BAD55B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C6D6708A-9285-415C-B2EF-A49947BAD55B}.Debug|x86.Build.0 = Debug|Win32
+		{C6D6708A-9285-415C-B2EF-A49947BAD55B}.Release|Any CPU.ActiveCfg = Release|x64
+		{C6D6708A-9285-415C-B2EF-A49947BAD55B}.Release|Any CPU.Build.0 = Release|x64
+		{C6D6708A-9285-415C-B2EF-A49947BAD55B}.Release|x64.ActiveCfg = Release|x64
+		{C6D6708A-9285-415C-B2EF-A49947BAD55B}.Release|x64.Build.0 = Release|x64
+		{C6D6708A-9285-415C-B2EF-A49947BAD55B}.Release|x86.ActiveCfg = Release|Win32
+		{C6D6708A-9285-415C-B2EF-A49947BAD55B}.Release|x86.Build.0 = Release|Win32
+		{044A01DA-0B4B-4B7F-8917-B58E2D8B2850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044A01DA-0B4B-4B7F-8917-B58E2D8B2850}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{044A01DA-0B4B-4B7F-8917-B58E2D8B2850}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{044A01DA-0B4B-4B7F-8917-B58E2D8B2850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044A01DA-0B4B-4B7F-8917-B58E2D8B2850}.Release|x64.ActiveCfg = Release|Any CPU
+		{044A01DA-0B4B-4B7F-8917-B58E2D8B2850}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

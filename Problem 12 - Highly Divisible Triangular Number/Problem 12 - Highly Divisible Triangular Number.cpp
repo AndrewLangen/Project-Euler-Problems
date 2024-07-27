@@ -20,7 +20,7 @@ int main()
     //new solution, based on what I saw online
     //essentially, all triangular numbers are of the form (n*(n+1))/2
     //n and n+1 are coprime, so their divisors can be calculated separately and added together (with one two subtracted because of the /2 in the formula, but that's ok because one of n and n+1 will always be even)
-    //finally, because the last n+1 becomes the next n, we only have to calculate half the divisors at a time and store the results after
+    //finally, because the last n+1 becomes the next n, only half the divisors have to be calculated at a time, with the other half stored from before
 
     int n = 1;
     int ndivisors = numdivisors(n);
@@ -58,7 +58,7 @@ int numdivisors(long input)
 
 //int main()
 //{
-//    //interestingly, we can calculate the triangular numbers as we go, without having to start from scratch every step
+//    //interestingly, triangular numbers can be calculated iteratively, without having to start from scratch every step
 //    //this is because they are all the sum of 1 to n, so we just keep adding new n's to the end
 //
 //    long triangularnumber = 0;
@@ -68,7 +68,7 @@ int numdivisors(long input)
 //        triangularnumber += n;
 //        int divisors = numdivisors(triangularnumber);
 //        if (divisors > 500)
-//            break;//we only return the triangular number itself, not the "base" number, so we don't have to worry about incrementing it once we find a number with 500 divisors
+//            break;//only the triangular number, not the sequence index, is needed, so incrementing the sequence is unnecessary at this point
 //        n++;
 //    }
 //
