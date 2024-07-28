@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 32 - Pandigital Pro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 33 - Digit Cancelling Fractions", "Problem 33 - Digit Cancelling Fractions\Problem 33 - Digit Cancelling Fractions.vcxproj", "{5C07902A-99DD-4045-A372-52C85198FB59}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 34 - Digit Factorials", "Problem 34 - Digit Factorials\Problem 34 - Digit Factorials.vcxproj", "{09982FAA-A24E-40E9-ADD8-4D0F533C693A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -403,6 +405,18 @@ Global
 		{5C07902A-99DD-4045-A372-52C85198FB59}.Release|x64.Build.0 = Release|x64
 		{5C07902A-99DD-4045-A372-52C85198FB59}.Release|x86.ActiveCfg = Release|Win32
 		{5C07902A-99DD-4045-A372-52C85198FB59}.Release|x86.Build.0 = Release|Win32
+		{09982FAA-A24E-40E9-ADD8-4D0F533C693A}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{09982FAA-A24E-40E9-ADD8-4D0F533C693A}.Debug|Any CPU.Build.0 = Debug|x64
+		{09982FAA-A24E-40E9-ADD8-4D0F533C693A}.Debug|x64.ActiveCfg = Debug|x64
+		{09982FAA-A24E-40E9-ADD8-4D0F533C693A}.Debug|x64.Build.0 = Debug|x64
+		{09982FAA-A24E-40E9-ADD8-4D0F533C693A}.Debug|x86.ActiveCfg = Debug|Win32
+		{09982FAA-A24E-40E9-ADD8-4D0F533C693A}.Debug|x86.Build.0 = Debug|Win32
+		{09982FAA-A24E-40E9-ADD8-4D0F533C693A}.Release|Any CPU.ActiveCfg = Release|x64
+		{09982FAA-A24E-40E9-ADD8-4D0F533C693A}.Release|Any CPU.Build.0 = Release|x64
+		{09982FAA-A24E-40E9-ADD8-4D0F533C693A}.Release|x64.ActiveCfg = Release|x64
+		{09982FAA-A24E-40E9-ADD8-4D0F533C693A}.Release|x64.Build.0 = Release|x64
+		{09982FAA-A24E-40E9-ADD8-4D0F533C693A}.Release|x86.ActiveCfg = Release|Win32
+		{09982FAA-A24E-40E9-ADD8-4D0F533C693A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
