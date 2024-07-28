@@ -15,9 +15,9 @@
 #include <iterator>
 #include <numeric>
 #include <ranges>
-#include <vector>
 #include <stack>
 #include <string>
+#include <vector>
 
 bool IsPalindromic(std::string input);
 
