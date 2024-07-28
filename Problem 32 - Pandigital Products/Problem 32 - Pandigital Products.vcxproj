@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{dbe1483a-b470-428f-a11c-70a175ec66ce}</ProjectGuid>
-    <RootNamespace>Problem_31___Coin_Sums</RootNamespace>
+    <ProjectGuid>{0f2e01df-5fe5-4d99-acf7-8befc91c7dbe}</ProjectGuid>
+    <RootNamespace>Problem_32___Pandigital_Products</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Problem 31 - Coin Sums (UNFINISHED)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -129,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Problem 31 - Coin Sums.cpp" />
+    <ClCompile Include="Problem 32 - Pandigital Products.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

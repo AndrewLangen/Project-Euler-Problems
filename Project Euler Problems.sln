@@ -55,9 +55,11 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Problem 29 - Distinct Power
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 30 - Digit Fifth Powers", "Problem 30 - Digit Fifth Powers\Problem 30 - Digit Fifth Powers.vcxproj", "{E1E7B19C-F9A5-4DDE-A467-49FE5E4995E8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 31 - Coin Sums", "Problem 31 - Coin Sums\Problem 31 - Coin Sums.vcxproj", "{DBE1483A-B470-428F-A11C-70A175EC66CE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 31 - Coin Sums (UNFINISHED)", "Problem 31 - Coin Sums\Problem 31 - Coin Sums.vcxproj", "{DBE1483A-B470-428F-A11C-70A175EC66CE}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 19 - Counting Sundays", "Problem 19 - Counting Sundays\Problem 19 - Counting Sundays.vcxproj", "{96C6C0F0-6D6D-44DF-AF64-9C221B3ECD07}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 32 - Pandigital Products", "Problem 32 - Pandigital Products\Problem 32 - Pandigital Products.vcxproj", "{0F2E01DF-5FE5-4D99-ACF7-8BEFC91C7DBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -375,6 +377,18 @@ Global
 		{96C6C0F0-6D6D-44DF-AF64-9C221B3ECD07}.Release|x64.Build.0 = Release|x64
 		{96C6C0F0-6D6D-44DF-AF64-9C221B3ECD07}.Release|x86.ActiveCfg = Release|Win32
 		{96C6C0F0-6D6D-44DF-AF64-9C221B3ECD07}.Release|x86.Build.0 = Release|Win32
+		{0F2E01DF-5FE5-4D99-ACF7-8BEFC91C7DBE}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{0F2E01DF-5FE5-4D99-ACF7-8BEFC91C7DBE}.Debug|Any CPU.Build.0 = Debug|x64
+		{0F2E01DF-5FE5-4D99-ACF7-8BEFC91C7DBE}.Debug|x64.ActiveCfg = Debug|x64
+		{0F2E01DF-5FE5-4D99-ACF7-8BEFC91C7DBE}.Debug|x64.Build.0 = Debug|x64
+		{0F2E01DF-5FE5-4D99-ACF7-8BEFC91C7DBE}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F2E01DF-5FE5-4D99-ACF7-8BEFC91C7DBE}.Debug|x86.Build.0 = Debug|Win32
+		{0F2E01DF-5FE5-4D99-ACF7-8BEFC91C7DBE}.Release|Any CPU.ActiveCfg = Release|x64
+		{0F2E01DF-5FE5-4D99-ACF7-8BEFC91C7DBE}.Release|Any CPU.Build.0 = Release|x64
+		{0F2E01DF-5FE5-4D99-ACF7-8BEFC91C7DBE}.Release|x64.ActiveCfg = Release|x64
+		{0F2E01DF-5FE5-4D99-ACF7-8BEFC91C7DBE}.Release|x64.Build.0 = Release|x64
+		{0F2E01DF-5FE5-4D99-ACF7-8BEFC91C7DBE}.Release|x86.ActiveCfg = Release|Win32
+		{0F2E01DF-5FE5-4D99-ACF7-8BEFC91C7DBE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
