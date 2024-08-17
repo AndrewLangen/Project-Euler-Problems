@@ -24,6 +24,7 @@
     <ProjectGuid>{fd7e4b8d-ae10-47cc-b43b-1d42791bbb08}</ProjectGuid>
     <RootNamespace>Problem3LargestPrimeFactor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Problem 03 - Largest Prime Factor</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

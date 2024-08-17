@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 1 - Multiples of 3 or 5", "Problem 1 - Multiples of 3 or 5\Problem 1 - Multiples of 3 or 5.vcxproj", "{11046930-4D7A-4192-9774-D732BFCFF535}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 01 - Multiples of 3 or 5", "Problem 1 - Multiples of 3 or 5\Problem 1 - Multiples of 3 or 5.vcxproj", "{11046930-4D7A-4192-9774-D732BFCFF535}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 2 - Even Fibonacci Numbers (UNFINISHED)", "Problem 2 - Even Fibonacci Numbers\Problem 2 - Even Fibonacci Numbers.vcxproj", "{CA85D05E-EF0B-455F-9431-F8461A7DAA7A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 02 - Even Fibonacci Numbers (UNFINISHED)", "Problem 2 - Even Fibonacci Numbers\Problem 2 - Even Fibonacci Numbers.vcxproj", "{CA85D05E-EF0B-455F-9431-F8461A7DAA7A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 3 - Largest Prime Factor", "Problem 3 - Largest Prime Factor\Problem 3 - Largest Prime Factor.vcxproj", "{FD7E4B8D-AE10-47CC-B43B-1D42791BBB08}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 03 - Largest Prime Factor", "Problem 3 - Largest Prime Factor\Problem 3 - Largest Prime Factor.vcxproj", "{FD7E4B8D-AE10-47CC-B43B-1D42791BBB08}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 4 - Largest Palindrome Product", "Problem 4 - Largest Palindrome Product\Problem 4 - Largest Palindrome Product.vcxproj", "{895D555A-D37E-4F41-99DA-DD8FB6FC1FF9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 04 - Largest Palindrome Product", "Problem 4 - Largest Palindrome Product\Problem 4 - Largest Palindrome Product.vcxproj", "{895D555A-D37E-4F41-99DA-DD8FB6FC1FF9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 5 - Smallest Multiple", "Problem 5 - Smallest Multiple\Problem 5 - Smallest Multiple.vcxproj", "{30F54EC1-5500-4AB2-AB85-ACEC90CBA665}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 05 - Smallest Multiple", "Problem 5 - Smallest Multiple\Problem 5 - Smallest Multiple.vcxproj", "{30F54EC1-5500-4AB2-AB85-ACEC90CBA665}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 6 - Sum Square Difference", "Problem 6 - Sum Square Difference\Problem 6 - Sum Square Difference.vcxproj", "{67197764-8BD4-4E23-8468-12132E292C17}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 06 - Sum Square Difference", "Problem 6 - Sum Square Difference\Problem 6 - Sum Square Difference.vcxproj", "{67197764-8BD4-4E23-8468-12132E292C17}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 7 - 10001st Prime", "Problem 7 - 10001st Prime\Problem 7 - 10001st Prime.vcxproj", "{DA27589A-FF62-453E-A498-BEF0136B0062}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 07 - 10001st Prime", "Problem 7 - 10001st Prime\Problem 7 - 10001st Prime.vcxproj", "{DA27589A-FF62-453E-A498-BEF0136B0062}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 8 - Largest Product in a Series", "Problem 8 - Largest Product in a Series\Problem 8 - Largest Product in a Series.vcxproj", "{6422AECD-B058-4772-89A6-74EEE02A1951}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 08 - Largest Product in a Series", "Problem 8 - Largest Product in a Series\Problem 8 - Largest Product in a Series.vcxproj", "{6422AECD-B058-4772-89A6-74EEE02A1951}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 9 - Special Pythagorean Triplet", "Problem 9 - Special Pythagorean Triplet\Problem 9 - Special Pythagorean Triplet.vcxproj", "{30DD2076-36F5-4E07-9578-F2495512ECC0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 09 - Special Pythagorean Triplet", "Problem 9 - Special Pythagorean Triplet\Problem 9 - Special Pythagorean Triplet.vcxproj", "{30DD2076-36F5-4E07-9578-F2495512ECC0}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 10 - Summation of Primes", "Problem 10 - Summation of Primes\Problem 10 - Summation of Primes.vcxproj", "{90110595-A55A-4314-8CCB-B8534F3B97FE}"
 EndProject
@@ -68,6 +68,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 35 - Circular Primes", "Problem 35 - Circular Primes\Problem 35 - Circular Primes.vcxproj", "{14547D0B-9B26-4F81-9EB6-2C05C275C012}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 36 - Double-base Palindromes", "Problem 36 - Double-base Palindromes\Problem 36 - Double-base Palindromes.vcxproj", "{10C98BB7-23AC-4959-AD2C-42D5EB582F12}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 37 - Truncatable Primes", "Problem 37 - Truncatable Primes\Problem 37 - Truncatable Primes.vcxproj", "{7B2D1774-B88C-4798-B339-EC6D14066356}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -445,6 +447,18 @@ Global
 		{10C98BB7-23AC-4959-AD2C-42D5EB582F12}.Release|x64.Build.0 = Release|x64
 		{10C98BB7-23AC-4959-AD2C-42D5EB582F12}.Release|x86.ActiveCfg = Release|Win32
 		{10C98BB7-23AC-4959-AD2C-42D5EB582F12}.Release|x86.Build.0 = Release|Win32
+		{7B2D1774-B88C-4798-B339-EC6D14066356}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{7B2D1774-B88C-4798-B339-EC6D14066356}.Debug|Any CPU.Build.0 = Debug|x64
+		{7B2D1774-B88C-4798-B339-EC6D14066356}.Debug|x64.ActiveCfg = Debug|x64
+		{7B2D1774-B88C-4798-B339-EC6D14066356}.Debug|x64.Build.0 = Debug|x64
+		{7B2D1774-B88C-4798-B339-EC6D14066356}.Debug|x86.ActiveCfg = Debug|Win32
+		{7B2D1774-B88C-4798-B339-EC6D14066356}.Debug|x86.Build.0 = Debug|Win32
+		{7B2D1774-B88C-4798-B339-EC6D14066356}.Release|Any CPU.ActiveCfg = Release|x64
+		{7B2D1774-B88C-4798-B339-EC6D14066356}.Release|Any CPU.Build.0 = Release|x64
+		{7B2D1774-B88C-4798-B339-EC6D14066356}.Release|x64.ActiveCfg = Release|x64
+		{7B2D1774-B88C-4798-B339-EC6D14066356}.Release|x64.Build.0 = Release|x64
+		{7B2D1774-B88C-4798-B339-EC6D14066356}.Release|x86.ActiveCfg = Release|Win32
+		{7B2D1774-B88C-4798-B339-EC6D14066356}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

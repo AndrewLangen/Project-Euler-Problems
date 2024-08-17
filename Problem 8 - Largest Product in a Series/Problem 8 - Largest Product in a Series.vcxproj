@@ -24,6 +24,7 @@
     <ProjectGuid>{6422aecd-b058-4772-89a6-74eee02a1951}</ProjectGuid>
     <RootNamespace>Problem_8___Largest_Product_in_a_Series</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Problem 08 - Largest Product in a Series</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

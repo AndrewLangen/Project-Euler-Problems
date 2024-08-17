@@ -24,6 +24,7 @@
     <ProjectGuid>{da27589a-ff62-453e-a498-bef0136b0062}</ProjectGuid>
     <RootNamespace>Problem_7___10001st_Prime</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Problem 07 - 10001st Prime</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

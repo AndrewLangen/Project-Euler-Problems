@@ -24,7 +24,7 @@
     <ProjectGuid>{30f54ec1-5500-4ab2-ab85-acec90cba665}</ProjectGuid>
     <RootNamespace>Problem_6___Smallest_Multiple</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Problem 5 - Smallest Multiple</ProjectName>
+    <ProjectName>Problem 05 - Smallest Multiple</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

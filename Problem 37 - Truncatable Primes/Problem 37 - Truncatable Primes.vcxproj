@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{67197764-8bd4-4e23-8468-12132e292c17}</ProjectGuid>
-    <RootNamespace>Problem_6___Sum_Square_Difference</RootNamespace>
+    <ProjectGuid>{7b2d1774-b88c-4798-b339-ec6d14066356}</ProjectGuid>
+    <RootNamespace>Problem_37___Truncatable_Primes</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Problem 06 - Sum Square Difference</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -129,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Problem 6 - Sum Square Difference.cpp" />
+    <ClCompile Include="Problem 37 - Truncatable Primes.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

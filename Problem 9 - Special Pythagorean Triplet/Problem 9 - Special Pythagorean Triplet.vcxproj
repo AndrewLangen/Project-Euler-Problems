@@ -24,6 +24,7 @@
     <ProjectGuid>{30dd2076-36f5-4e07-9578-f2495512ecc0}</ProjectGuid>
     <RootNamespace>Problem_9___Special_Pythagorean_Triplet</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Problem 09 - Special Pythagorean Triplet</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

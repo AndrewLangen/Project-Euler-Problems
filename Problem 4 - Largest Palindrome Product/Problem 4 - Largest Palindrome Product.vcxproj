@@ -24,6 +24,7 @@
     <ProjectGuid>{895d555a-d37e-4f41-99da-dd8fb6fc1ff9}</ProjectGuid>
     <RootNamespace>Problem4LargestPalindromeProduct</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Problem 04 - Largest Palindrome Product</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
